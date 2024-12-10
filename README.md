@@ -15,8 +15,9 @@
 ## Descrição // resumo: 
 
 - Foi feito um jogo com a game engine: UNREAL ENGINE
-- Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala)
-- # Passo a passo que eu fiz:
+- Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala).
+  
+ Passo a passo que eu fiz:
 - Foi utilizado como base um projeto padrão da Unreal Engine voltado para testes de personagens em terceira pessoa.
 1. Construção do Ambiente:
 - A estrutura original foi modificada para criar um percurso de plataformas que desafiam o jogador a realizar saltos precisos até o objetivo final.
@@ -28,4 +29,5 @@
 - Criação de cubos flutuantes com o sistema de física desativado, mas com gravidade habilitada, permitindo que flutuem pelo ambiente.
 - Aplicação de um material roxo em todo o cenário, conferindo uma estética coesa e imersiva.
 - Alteração das propriedades do céu e do plano de fundo para criar uma atmosfera que remete à temática do percurso de parkour.
+4. A placa com a textura do nome, que se pode ver no inicio do vídeo.
 
