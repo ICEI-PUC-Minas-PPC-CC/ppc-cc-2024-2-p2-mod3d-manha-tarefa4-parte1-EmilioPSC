@@ -19,4 +19,3 @@
 
 ## Projeto
 
-- [projeto.zip](https://github.com/user-attachments/files/18071069/projeto.zip)
