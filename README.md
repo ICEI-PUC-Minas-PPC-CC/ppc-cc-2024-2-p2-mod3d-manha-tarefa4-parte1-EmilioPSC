@@ -12,19 +12,20 @@
 
 - Will Ricardo dos Santos Machado
 
-## Descrição
+## Descrição // resumo: 
 
 - Foi feito um jogo com a game engine: UNREAL ENGINE
 - Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala)
-- a placa com a textura do nome está no começo do video onde o personagem aparece.
-
-## Vídeo do projeto
-
-
-- [projetoUE.zip](https://github.com/user-attachments/files/18083620/projetoUE.zip)
-
-
-## AVISO:
-
-- O Arquivo do projeto é muito pesado e por isso não passa pro GITHUB.
+- Passo a passo que eu fiz: 
+- Foi utilizado como base um projeto padrão da Unreal Engine voltado para testes de personagens em terceira pessoa.
+1. Construção do Ambiente:
+- A estrutura original foi modificada para criar um percurso de plataformas que desafiam o jogador a realizar saltos precisos até o objetivo final.
+- Foram implementadas plataformas giratórias com velocidades aleatórias. Essas velocidades variam entre as plataformas e são redefinidas sempre que o personagem morre ou o jogo é reiniciado.
+2. Elementos Interativos:
+- Desenvolveu-se um material especial para os pontos luminosos, que possuem um sistema de colisão. Quando o personagem entra em contato com esses pontos, eles desaparecem.
+- Foi adicionada uma trilha sonora em 2D, além de um evento único que é acionado ao coletar o último ponto luminoso, sinalizando a conclusão do percurso.
+3. Para enriquecer a decoração e criar uma estética única, foram realizadas as seguintes alterações:
+- Criação de cubos flutuantes com o sistema de física desativado, mas com gravidade habilitada, permitindo que flutuem pelo ambiente.
+- Aplicação de um material roxo em todo o cenário, conferindo uma estética coesa e imersiva.
+- Alteração das propriedades do céu e do plano de fundo para criar uma atmosfera que remete à temática do percurso de parkour.
 
