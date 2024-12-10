@@ -12,6 +12,11 @@
 
 - Will Ricardo dos Santos Machado
 
-# Projeto
+## Descrição
+
+- Foi feito um jogo com a game engine: UNREAL ENGINE
+- Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala)
+
+## Projeto
 
 - [projeto.zip](https://github.com/user-attachments/files/18071069/projeto.zip)
