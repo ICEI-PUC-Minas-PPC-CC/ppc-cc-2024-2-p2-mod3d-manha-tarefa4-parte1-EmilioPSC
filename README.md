@@ -16,6 +16,7 @@
 
 - Foi feito um jogo com a game engine: UNREAL ENGINE
 - Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala)
+- a placa com a textura do nome está no começo do video onde o personagem aparece.
 
 ## Projeto
 
