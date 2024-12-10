@@ -24,3 +24,7 @@
 - [projetoUE.zip](https://github.com/user-attachments/files/18083620/projetoUE.zip)
 
 
+## AVISO:
+
+- O Arquivo do projeto é muito pesado e por isso não passa pro GITHUB.
+
