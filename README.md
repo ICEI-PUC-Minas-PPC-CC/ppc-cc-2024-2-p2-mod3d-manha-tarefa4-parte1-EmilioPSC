@@ -16,7 +16,7 @@
 
 - Foi feito um jogo com a game engine: UNREAL ENGINE
 - Usei o video : https://youtu.be/Thq2oLwZ15c?si=KEfD5aUFcxFmCAqF (como foi apresentado em sala)
-- Passo a passo que eu fiz: 
+- *Passo a passo que eu fiz:* 
 - Foi utilizado como base um projeto padrão da Unreal Engine voltado para testes de personagens em terceira pessoa.
 1. Construção do Ambiente:
 - A estrutura original foi modificada para criar um percurso de plataformas que desafiam o jogador a realizar saltos precisos até o objetivo final.
