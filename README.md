@@ -31,3 +31,5 @@
 - Alteração das propriedades do céu e do plano de fundo para criar uma atmosfera que remete à temática do percurso de parkour.
 4. A placa com a textura do nome, que se pode ver no inicio do vídeo.
 
+![Captura de tela 2024-12-11 101300](https://github.com/user-attachments/assets/fae2414c-25d0-48b3-925c-e58548f58610)
+![Captura de tela 2024-12-11 101321](https://github.com/user-attachments/assets/fdbc73bf-0504-4248-85be-00b25e363b4b)
